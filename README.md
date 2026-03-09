@@ -1,6 +1,5 @@
-<!-- markdownlint-disable MD041 -->
 <!-- markdownlint-disable MD033 -->
-<!-- markdownlint-disable MD028 -->
+<!-- markdownlint-disable MD041 -->
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -42,7 +41,7 @@ Short project description
 
 ### Prerequisties
 
-- [pre-commit][pre-commit]
+- [pre-commit][pre-commit-url]
 
 ### Initialize repository
 
@@ -70,8 +69,6 @@ git switch -c feature/INPRO-1-configure-resource
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 <!-- Links -->
-
-[pre-commit]: https://pre-commit.com/
 
 <!-- Badges -->
 
